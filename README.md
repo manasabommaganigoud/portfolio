@@ -3,7 +3,7 @@ Manasa Bommagani – Frontend Developer Portfolio Website
 This is my personal portfolio website built to showcase my skills, projects, and resume.
 
 ## 🔗 Live Website
-https://manasaBommagani.github.io/
+https://manasabommaganigoud.github.io/portfolio/
 
 ## 🛠️ Built With
 - HTML5
